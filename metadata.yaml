@@ -1,0 +1,33 @@
+_repo: The-loves-of-Pelleas-and-Etarre_68268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Lleywelyn, Mrs.
+    - Breese, William Llywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: https://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2022-06-09'
+identifiers:
+  gutenberg: '68268'
+language: en
+pgterms:marc904: https://archive.org/details/lovesofpelleaset04gale/page/n7
+pgterms:marc905: 20190530043541gale
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Tim Lindell, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :The Macmillan Company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The loves of Pelleas and Etarre
+url: http://www.gutenberg.org/ebooks/68268

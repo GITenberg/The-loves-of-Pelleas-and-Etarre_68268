@@ -1,5 +1,8 @@
 _repo: The-loves-of-Pelleas-and-Etarre_68268
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68268-h/images/cover.jpg
 creator:
   author:
     agent_name: Gale, Zona
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3531
     wikipedia: https://en.wikipedia.org/wiki/Zona_Gale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68268#The-loves-of-Pelleas-and-Etarre
 gutenberg_issued: '2022-06-09'
 identifiers:
   gutenberg: '68268'
